@@ -5,7 +5,6 @@
 A list of all libraries used in creating this program
 
 jsoup-1.13.1.jar  
-json-simple-3.1.1.jar  
 json-simple-1.1.1.jar  
 commons-lang3-3.11\commons-lang3-3.11.jar  
 commons-text-1.9-bin\commons-text-1.9\commons-text-1.9.jar  
