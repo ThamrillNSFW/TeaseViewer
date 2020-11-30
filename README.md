@@ -1,4 +1,4 @@
-# TeaseViewer alpha version 0.1.0
+# TeaseViewer alpha version 0.2.0
 
 You can set preferences from "Edit"->"Preferences..."
 I suggest you start from there and set the folder which will contain all teases.
@@ -17,5 +17,6 @@ I take no responsibility of consequences coming from the usage of this applicati
 
 ### Release history
 
+- 0.2.0 (2020-11-30) - update for downloader and resizable GUI
 - 0.1.0 (2020-10-28) - update for different OS
 - 0.0.1 (2020-10-24) - initial releas
